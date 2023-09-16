@@ -1,0 +1,3 @@
+#!/bin/bash
+make
+java -cp .:lib/gson-2.8.6.jar Server $1 $2 $3 $4

@@ -1,0 +1,18 @@
+{
+    "sensors": {
+       "temperature":"80",
+       "fridge_temp":"40",
+       "fridge_energy":"140",
+       "energy":"2000",
+       "owner_location":"1",
+       "smoke":"0",
+       "door":"1"
+       },
+     "output_devices": {
+       "air_conditioning":"2",
+       "lights":"1",
+       "window_shades":"0",
+       "alarm_status":"0"
+       }
+    }  
+  
